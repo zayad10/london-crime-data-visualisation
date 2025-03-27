@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel='stylesheet' href='style.css'>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="main.js"></script>
+
+<body>
+    <div class="dashboard-container"> 
+        <div class="year-selector">
+            <button id="prev-year">←</button>
+            <span id="year-display">Year: 2020</span>
+            <button id="next-year">→</button>
+        </div>
+ 
+        <div class="top-row"> 
+            <div class="map-container">
+            </div>
+ 
+            <div class="stats-container">
+                <div class="stat" id="selected-borough">
+                    <div class="stat-label">Selected Borough:</div>
+                    <div class="selected-borough-value">--</div>
+                </div>
+                <div class="stat" id="crime-ranking">
+                    <div class="stat-label">Crime Ranking:</div>
+                    <div class="stat-value" id="stat-crime-ranking">--</div>
+                </div>
+                <div class="stat" id="avg-house-price">
+                    <div class="stat-label">Avg House Price:</div>
+                    <div class="stat-value" id="stat-avg-house-price">--</div>
+                </div>
+            </div>
+        </div>
+ 
+        <div class="bottom-row">
+            <div class="visual-container" id="parallelcoordinates">
+            </div>
+            <div class="visual-container" id="treemap">
+            </div>
+        </div>
+        <div class="scrollable-text">
+            <p><strong>Short description of how data are being processed (and acknowledgement of data sources):</strong>
+            </p>
+            <ul>
+                <li>
+                    <strong>Initial Cleaning &amp; Formatting:</strong>
+                    Generic column labels (e.g., “Unnamed: 2” → “White”) were renamed, and unnecessary ones
+                    (such as “MinorText” in the crime data) were dropped. Values that appeared numeric
+                    (for example, sales or percentages) were converted from text to numeric form, and
+                    dates were standardized to consistent date fields.
+                </li>
+                <li>
+                    <strong>Handling Missing &amp; Erroneous Values:</strong>
+                    Rows missing critical information (e.g., a missing “Area” name) or containing placeholder
+                    entries (e.g., “-”) were removed. In some datasets, unrealistic data (e.g., negative numbers
+                    or invalid dates) was also filtered out to maintain accuracy.
+                </li>
+                <li>
+                    <strong>Data Wrangling &amp; Transformation:</strong>
+                    <ul>
+                        <li>Multiple worksheets or CSV files were combined into a single DataFrame (as seen with
+                            the ethnic groups or workless households data by year).</li>
+                        <li>Wide data (with many columns) was reorganized into a “long” format for easier grouping,
+                            such as in the house prices and unemployment data, where monthly/period columns
+                            were converted into a single “Date” or “Year” column.</li>
+                        <li>New columns were created—like a “Year” column extracted from sheet names or date strings—
+                            to simplify grouping by time period.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>Aggregation &amp; Summaries:</strong>
+                    Monthly columns were summed to get yearly totals for crime statistics, followed by grouping
+                    by categories (e.g., “MajorText”) to identify trends. Average house prices were calculated
+                    by gathering daily or monthly data and taking a mean by year.
+                </li>
+                <li>
+                    <strong>Merging Datasets:</strong>
+                    After standardizing names for area and year, multiple DataFrames
+                    (e.g., population density, unemployment rates, house prices) were merged using these
+                    common fields. A single, comprehensive dataset was produced, containing indicators
+                    such as “Workless Household Percentage” or “Avg_house_price” side by side for analysis.
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+<div id="tooltip"></div>
+</body>

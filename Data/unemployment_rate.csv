@@ -1,0 +1,406 @@
+Area,Year,Unemployment_rate
+Barking and Dagenham,2012.0,12.775
+Barking and Dagenham,2013.0,14.125
+Barking and Dagenham,2014.0,11.25
+Barking and Dagenham,2015.0,10.2
+Barking and Dagenham,2016.0,8.7
+Barking and Dagenham,2017.0,7.2
+Barking and Dagenham,2018.0,5.9
+Barking and Dagenham,2019.0,5.9
+Barking and Dagenham,2020.0,6.925
+Barnet,2012.0,9.025
+Barnet,2013.0,6.875
+Barnet,2014.0,6.6
+Barnet,2015.0,6.15
+Barnet,2016.0,5.35
+Barnet,2017.0,5.0
+Barnet,2018.0,4.7
+Barnet,2019.0,4.65
+Barnet,2020.0,4.525
+Bexley,2012.0,7.875
+Bexley,2013.0,8.075
+Bexley,2014.0,6.375
+Bexley,2015.0,6.225
+Bexley,2016.0,5.050000000000001
+Bexley,2017.0,4.7
+Bexley,2018.0,4.0
+Bexley,2019.0,4.25
+Bexley,2020.0,4.45
+Brent,2012.0,10.35
+Brent,2013.0,10.425
+Brent,2014.0,8.325
+Brent,2015.0,6.8
+Brent,2016.0,7.7
+Brent,2017.0,6.6
+Brent,2018.0,5.3
+Brent,2019.0,4.7
+Brent,2020.0,6.075
+Bromley,2012.0,6.625
+Bromley,2013.0,6.3999999999999995
+Bromley,2014.0,5.550000000000001
+Bromley,2015.0,5.15
+Bromley,2016.0,5.0
+Bromley,2017.0,3.9
+Bromley,2018.0,4.2
+Bromley,2019.0,3.5
+Bromley,2020.0,4.125
+Camden,2012.0,8.25
+Camden,2013.0,8.275
+Camden,2014.0,6.8
+Camden,2015.0,6.025
+Camden,2016.0,5.6
+Camden,2017.0,5.3
+Camden,2018.0,4.5
+Camden,2019.0,4.6
+Camden,2020.0,4.375
+Croydon,2012.0,10.55
+Croydon,2013.0,9.275
+Croydon,2014.0,8.0
+Croydon,2015.0,5.95
+Croydon,2016.0,5.5
+Croydon,2017.0,5.9
+Croydon,2018.0,5.0
+Croydon,2019.0,5.199999999999999
+Croydon,2020.0,5.2
+Ealing,2012.0,10.925
+Ealing,2013.0,10.3
+Ealing,2014.0,8.9
+Ealing,2015.0,6.6499999999999995
+Ealing,2016.0,6.45
+Ealing,2017.0,5.3
+Ealing,2018.0,5.5
+Ealing,2019.0,5.550000000000001
+Ealing,2020.0,5.425
+East,2012.0,6.725
+East,2013.0,6.375
+East,2014.0,5.425
+East,2015.0,4.4
+East,2016.0,3.75
+East,2017.0,3.9
+East,2018.0,3.5
+East,2019.0,3.3
+East,2020.0,3.575
+East Midlands,2012.0,8.05
+East Midlands,2013.0,7.675000000000001
+East Midlands,2014.0,6.275
+East Midlands,2015.0,5.025
+East Midlands,2016.0,4.300000000000001
+East Midlands,2017.0,4.4
+East Midlands,2018.0,4.5
+East Midlands,2019.0,4.15
+East Midlands,2020.0,4.2
+Enfield,2012.0,12.325
+Enfield,2013.0,9.975
+Enfield,2014.0,8.65
+Enfield,2015.0,6.675000000000001
+Enfield,2016.0,6.15
+Enfield,2017.0,6.3
+Enfield,2018.0,5.3
+Enfield,2019.0,5.55
+Enfield,2020.0,5.9
+England,2012.0,8.0
+England,2013.0,7.725
+England,2014.0,6.675
+England,2015.0,5.475
+England,2016.0,5.1
+England,2017.0,4.6
+England,2018.0,4.1
+England,2019.0,4.0
+England,2020.0,4.25
+England and Wales,2012.0,8.025
+England and Wales,2013.0,7.725
+England and Wales,2014.0,6.675
+England and Wales,2015.0,5.525
+England and Wales,2016.0,5.1
+England and Wales,2017.0,4.6
+England and Wales,2018.0,4.2
+England and Wales,2019.0,4.0
+England and Wales,2020.0,4.225
+Great Britain,2012.0,8.025
+Great Britain,2013.0,7.725
+Great Britain,2014.0,6.7
+Great Britain,2015.0,5.55
+Great Britain,2016.0,5.1
+Great Britain,2017.0,4.6
+Great Britain,2018.0,4.2
+Great Britain,2019.0,4.0
+Great Britain,2020.0,4.175
+Greenwich,2012.0,11.25
+Greenwich,2013.0,10.475000000000001
+Greenwich,2014.0,9.725
+Greenwich,2015.0,7.6
+Greenwich,2016.0,6.5
+Greenwich,2017.0,6.1
+Greenwich,2018.0,5.4
+Greenwich,2019.0,5.1
+Greenwich,2020.0,5.125
+Hackney,2012.0,10.375
+Hackney,2013.0,11.225
+Hackney,2014.0,9.15
+Hackney,2015.0,7.175
+Hackney,2016.0,7.4
+Hackney,2017.0,5.7
+Hackney,2018.0,6.0
+Hackney,2019.0,5.300000000000001
+Hackney,2020.0,5.875
+Hammersmith and Fulham,2012.0,8.475
+Hammersmith and Fulham,2013.0,8.55
+Hammersmith and Fulham,2014.0,6.5
+Hammersmith and Fulham,2015.0,6.125
+Hammersmith and Fulham,2016.0,6.050000000000001
+Hammersmith and Fulham,2017.0,5.8
+Hammersmith and Fulham,2018.0,5.5
+Hammersmith and Fulham,2019.0,5.3
+Hammersmith and Fulham,2020.0,5.075
+Haringey,2012.0,10.7
+Haringey,2013.0,9.95
+Haringey,2014.0,8.7
+Haringey,2015.0,7.05
+Haringey,2016.0,7.05
+Haringey,2017.0,6.3
+Haringey,2018.0,5.3
+Haringey,2019.0,4.75
+Haringey,2020.0,5.275
+Harrow,2012.0,7.225
+Harrow,2013.0,7.675
+Harrow,2014.0,6.5
+Harrow,2015.0,4.725
+Harrow,2016.0,4.7
+Harrow,2017.0,4.5
+Harrow,2018.0,3.6
+Harrow,2019.0,4.15
+Harrow,2020.0,4.550000000000001
+Havering,2012.0,9.1
+Havering,2013.0,9.4
+Havering,2014.0,6.675
+Havering,2015.0,6.475
+Havering,2016.0,5.25
+Havering,2017.0,4.9
+Havering,2018.0,4.7
+Havering,2019.0,4.85
+Havering,2020.0,4.8
+Hillingdon,2012.0,8.275
+Hillingdon,2013.0,8.025
+Hillingdon,2014.0,6.625
+Hillingdon,2015.0,5.875
+Hillingdon,2016.0,5.3
+Hillingdon,2017.0,4.8
+Hillingdon,2018.0,4.4
+Hillingdon,2019.0,4.1
+Hillingdon,2020.0,5.175
+Hounslow,2012.0,7.85
+Hounslow,2013.0,7.3
+Hounslow,2014.0,6.4
+Hounslow,2015.0,5.45
+Hounslow,2016.0,5.25
+Hounslow,2017.0,5.8
+Hounslow,2018.0,4.9
+Hounslow,2019.0,5.0
+Hounslow,2020.0,5.050000000000001
+Islington,2012.0,9.625
+Islington,2013.0,10.475
+Islington,2014.0,7.85
+Islington,2015.0,7.075
+Islington,2016.0,6.35
+Islington,2017.0,6.3
+Islington,2018.0,5.1
+Islington,2019.0,4.55
+Islington,2020.0,5.25
+Kensington and Chelsea,2012.0,6.775
+Kensington and Chelsea,2013.0,6.8
+Kensington and Chelsea,2014.0,6.275
+Kensington and Chelsea,2015.0,5.425
+Kensington and Chelsea,2016.0,4.95
+Kensington and Chelsea,2017.0,6.0
+Kensington and Chelsea,2018.0,6.0
+Kensington and Chelsea,2019.0,5.25
+Kensington and Chelsea,2020.0,4.6
+Kingston upon Thames,2012.0,6.375
+Kingston upon Thames,2013.0,5.75
+Kingston upon Thames,2014.0,5.35
+Kingston upon Thames,2015.0,4.9
+Kingston upon Thames,2016.0,5.2
+Kingston upon Thames,2017.0,4.2
+Kingston upon Thames,2018.0,4.9
+Kingston upon Thames,2019.0,3.9
+Kingston upon Thames,2020.0,4.225
+Lambeth,2012.0,9.825
+Lambeth,2013.0,8.85
+Lambeth,2014.0,7.6
+Lambeth,2015.0,6.3
+Lambeth,2016.0,6.4
+Lambeth,2017.0,5.0
+Lambeth,2018.0,6.3
+Lambeth,2019.0,5.5
+Lambeth,2020.0,5.65
+Lewisham,2012.0,10.35
+Lewisham,2013.0,10.4
+Lewisham,2014.0,7.625
+Lewisham,2015.0,6.15
+Lewisham,2016.0,7.15
+Lewisham,2017.0,5.3
+Lewisham,2018.0,4.8
+Lewisham,2019.0,4.9
+Lewisham,2020.0,5.05
+London,2012.0,9.375
+London,2013.0,8.95
+London,2014.0,7.55
+London,2015.0,6.425
+London,2016.0,6.05
+London,2017.0,5.5
+London,2018.0,5.0
+London,2019.0,4.75
+London,2020.0,5.05
+Merton,2012.0,7.6
+Merton,2013.0,6.3
+Merton,2014.0,6.275
+Merton,2015.0,5.25
+Merton,2016.0,4.8
+Merton,2017.0,4.6
+Merton,2018.0,4.3
+Merton,2019.0,4.3
+Merton,2020.0,4.6
+Newham,2012.0,13.3
+Newham,2013.0,11.725
+Newham,2014.0,10.3
+Newham,2015.0,7.825
+Newham,2016.0,7.4
+Newham,2017.0,5.7
+Newham,2018.0,5.6
+Newham,2019.0,5.0
+Newham,2020.0,5.775
+North East,2012.0,10.825
+North East,2013.0,10.0
+North East,2014.0,9.075
+North East,2015.0,7.725
+North East,2016.0,7.6
+North East,2017.0,6.5
+North East,2018.0,5.3
+North East,2019.0,5.75
+North East,2020.0,6.025
+North West,2012.0,8.675
+North West,2013.0,8.05
+North West,2014.0,7.55
+North West,2015.0,5.875
+North West,2016.0,5.3
+North West,2017.0,4.7
+North West,2018.0,4.0
+North West,2019.0,4.0
+North West,2020.0,4.075
+Redbridge,2012.0,9.85
+Redbridge,2013.0,8.85
+Redbridge,2014.0,7.575
+Redbridge,2015.0,6.575
+Redbridge,2016.0,5.5
+Redbridge,2017.0,5.1
+Redbridge,2018.0,5.0
+Redbridge,2019.0,4.85
+Redbridge,2020.0,4.425
+Richmond upon Thames,2012.0,4.625
+Richmond upon Thames,2013.0,4.225
+Richmond upon Thames,2014.0,4.45
+Richmond upon Thames,2015.0,4.45
+Richmond upon Thames,2016.0,4.5
+Richmond upon Thames,2017.0,4.0
+Richmond upon Thames,2018.0,3.8
+Richmond upon Thames,2019.0,3.2
+Richmond upon Thames,2020.0,3.3499999999999996
+Scotland,2012.0,8.05
+Scotland,2013.0,7.8
+Scotland,2014.0,6.8
+Scotland,2015.0,5.975
+Scotland,2016.0,5.550000000000001
+Scotland,2017.0,4.5
+Scotland,2018.0,4.3
+Scotland,2019.0,3.8
+Scotland,2020.0,3.65
+South East,2012.0,5.925
+South East,2013.0,6.05
+South East,2014.0,5.025
+South East,2015.0,4.4
+South East,2016.0,4.1
+South East,2017.0,3.5
+South East,2018.0,3.4
+South East,2019.0,3.15
+South East,2020.0,3.625
+South West,2012.0,6.0
+South West,2013.0,5.825
+South West,2014.0,5.3
+South West,2015.0,4.2749999999999995
+South West,2016.0,4.05
+South West,2017.0,3.7
+South West,2018.0,3.1
+South West,2019.0,3.05
+South West,2020.0,3.425
+Southwark,2012.0,10.425
+Southwark,2013.0,10.25
+Southwark,2014.0,9.425
+Southwark,2015.0,7.25
+Southwark,2016.0,6.75
+Southwark,2017.0,6.2
+Southwark,2018.0,5.9
+Southwark,2019.0,5.1
+Southwark,2020.0,5.25
+Sutton,2012.0,7.025
+Sutton,2013.0,6.6000000000000005
+Sutton,2014.0,5.425
+Sutton,2015.0,5.225
+Sutton,2016.0,5.4
+Sutton,2017.0,4.5
+Sutton,2018.0,4.7
+Sutton,2019.0,4.45
+Sutton,2020.0,4.6
+Tower Hamlets,2012.0,12.575
+Tower Hamlets,2013.0,13.15
+Tower Hamlets,2014.0,9.625
+Tower Hamlets,2015.0,8.524999999999999
+Tower Hamlets,2016.0,7.0
+Tower Hamlets,2017.0,8.1
+Tower Hamlets,2018.0,5.6
+Tower Hamlets,2019.0,5.6
+Tower Hamlets,2020.0,5.475
+Wales,2012.0,8.375
+Wales,2013.0,8.125
+Wales,2014.0,7.05
+Wales,2015.0,6.375
+Wales,2016.0,5.15
+Wales,2017.0,4.7
+Wales,2018.0,4.5
+Wales,2019.0,4.3
+Wales,2020.0,3.6500000000000004
+Waltham Forest,2012.0,11.05
+Waltham Forest,2013.0,10.325
+Waltham Forest,2014.0,9.5
+Waltham Forest,2015.0,7.375
+Waltham Forest,2016.0,6.35
+Waltham Forest,2017.0,5.9
+Waltham Forest,2018.0,4.0
+Waltham Forest,2019.0,4.55
+Waltham Forest,2020.0,6.025
+Wandsworth,2012.0,6.574999999999999
+Wandsworth,2013.0,7.4
+Wandsworth,2014.0,5.375
+Wandsworth,2015.0,5.15
+Wandsworth,2016.0,4.75
+Wandsworth,2017.0,4.5
+Wandsworth,2018.0,3.9
+Wandsworth,2019.0,3.9
+Wandsworth,2020.0,3.75
+West Midlands,2012.0,8.875
+West Midlands,2013.0,8.95
+West Midlands,2014.0,7.449999999999999
+West Midlands,2015.0,6.05
+West Midlands,2016.0,5.800000000000001
+West Midlands,2017.0,5.1
+West Midlands,2018.0,4.7
+West Midlands,2019.0,4.699999999999999
+West Midlands,2020.0,5.025
+Yorkshire and The Humber,2012.0,9.5
+Yorkshire and The Humber,2013.0,9.05
+Yorkshire and The Humber,2014.0,8.05
+Yorkshire and The Humber,2015.0,6.475
+Yorkshire and The Humber,2016.0,5.949999999999999
+Yorkshire and The Humber,2017.0,5.0
+Yorkshire and The Humber,2018.0,4.5
+Yorkshire and The Humber,2019.0,4.45
+Yorkshire and The Humber,2020.0,4.175

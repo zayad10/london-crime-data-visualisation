@@ -1,0 +1,325 @@
+Name,Year,Population_per_hectare
+City of London,2012,24.8
+City of London,2013,23.6
+City of London,2014,23.7
+City of London,2015,24.7
+City of London,2016,25.5
+City of London,2017,25.5
+City of London,2018,26.5
+City of London,2019,27.4
+City of London,2020,27.7
+Barking and Dagenham,2012,52.9
+Barking and Dagenham,2013,53.9
+Barking and Dagenham,2014,55
+Barking and Dagenham,2015,56
+Barking and Dagenham,2016,57.3
+Barking and Dagenham,2017,58.3
+Barking and Dagenham,2018,58.9
+Barking and Dagenham,2019,59.5
+Barking and Dagenham,2020,60.5
+Barnet,2012,42
+Barnet,2013,42.6
+Barnet,2014,43.2
+Barnet,2015,43.8
+Barnet,2016,44.5
+Barnet,2017,45.1
+Barnet,2018,45.8
+Barnet,2019,46.4
+Barnet,2020,46.9
+Bexley,2012,38.7
+Bexley,2013,39.1
+Bexley,2014,39.6
+Bexley,2015,40
+Bexley,2016,40.4
+Bexley,2017,40.8
+Bexley,2018,41.3
+Bexley,2019,41.7
+Bexley,2020,42.1
+Brent,2012,73
+Brent,2013,73.6
+Brent,2014,74.4
+Brent,2015,75.1
+Brent,2016,76.1
+Brent,2017,77
+Brent,2018,77.9
+Brent,2019,78.8
+Brent,2020,79.5
+Bromley,2012,21
+Bromley,2013,21.2
+Bromley,2014,21.4
+Bromley,2015,21.7
+Bromley,2016,21.8
+Bromley,2017,22
+Bromley,2018,22.2
+Bromley,2019,22.3
+Bromley,2020,22.4
+Camden,2012,103.2
+Camden,2013,105.4
+Camden,2014,107.8
+Camden,2015,110.6
+Camden,2016,113
+Camden,2017,114.5
+Camden,2018,115.9
+Camden,2019,117.3
+Camden,2020,118.1
+Croydon,2012,42.6
+Croydon,2013,43.1
+Croydon,2014,43.5
+Croydon,2015,43.8
+Croydon,2016,44.2
+Croydon,2017,44.7
+Croydon,2018,45.2
+Croydon,2019,45.8
+Croydon,2020,46.3
+Ealing,2012,61.4
+Ealing,2013,61.7
+Ealing,2014,61.7
+Ealing,2015,61.8
+Ealing,2016,61.9
+Ealing,2017,62.5
+Ealing,2018,63.2
+Ealing,2019,63.8
+Ealing,2020,65.1
+Enfield,2012,39.3
+Enfield,2013,39.7
+Enfield,2014,40.2
+Enfield,2015,40.6
+Enfield,2016,41
+Enfield,2017,41.5
+Enfield,2018,41.8
+Enfield,2019,42
+Enfield,2020,42.4
+Greenwich,2012,54.9
+Greenwich,2013,55.8
+Greenwich,2014,56.8
+Greenwich,2015,58.1
+Greenwich,2016,59.1
+Greenwich,2017,59.7
+Greenwich,2018,60.5
+Greenwich,2019,61.2
+Greenwich,2020,61.8
+Hackney,2012,132.6
+Hackney,2013,135.3
+Hackney,2014,138.4
+Hackney,2015,141.4
+Hackney,2016,143.8
+Hackney,2017,145.7
+Hackney,2018,147.9
+Hackney,2019,150.4
+Hackney,2020,152
+Hammersmith and Fulham,2012,109.9
+Hammersmith and Fulham,2013,109.2
+Hammersmith and Fulham,2014,109
+Hammersmith and Fulham,2015,109.6
+Hammersmith and Fulham,2016,109.8
+Hammersmith and Fulham,2017,110.9
+Hammersmith and Fulham,2018,112.2
+Hammersmith and Fulham,2019,113.5
+Hammersmith and Fulham,2020,116.3
+Haringey,2012,87.8
+Haringey,2013,89.3
+Haringey,2014,90.7
+Haringey,2015,92.5
+Haringey,2016,94.4
+Haringey,2017,95.4
+Haringey,2018,96
+Haringey,2019,96.6
+Haringey,2020,97.6
+Harrow,2012,48.1
+Harrow,2013,48.3
+Harrow,2014,48.9
+Harrow,2015,49.1
+Harrow,2016,49.4
+Harrow,2017,49.9
+Harrow,2018,50.6
+Harrow,2019,51.3
+Harrow,2020,51.8
+Havering,2012,21.4
+Havering,2013,21.6
+Havering,2014,21.9
+Havering,2015,22.2
+Havering,2016,22.5
+Havering,2017,22.8
+Havering,2018,22.9
+Havering,2019,23
+Havering,2020,23.3
+Hillingdon,2012,24.4
+Hillingdon,2013,24.8
+Hillingdon,2014,25.4
+Hillingdon,2015,25.8
+Hillingdon,2016,26.2
+Hillingdon,2017,26.5
+Hillingdon,2018,26.8
+Hillingdon,2019,27
+Hillingdon,2020,27.3
+Hounslow,2012,46.4
+Hounslow,2013,46.9
+Hounslow,2014,47.5
+Hounslow,2015,48.1
+Hounslow,2016,48.5
+Hounslow,2017,49.1
+Hounslow,2018,49.7
+Hounslow,2019,50.3
+Hounslow,2020,50.8
+Islington,2012,142.3
+Islington,2013,145.4
+Islington,2014,149
+Islington,2015,153.5
+Islington,2016,157
+Islington,2017,158.4
+Islington,2018,160.4
+Islington,2019,162.6
+Islington,2020,163.4
+Kensington and Chelsea,2012,128.9
+Kensington and Chelsea,2013,128.7
+Kensington and Chelsea,2014,129.2
+Kensington and Chelsea,2015,130.4
+Kensington and Chelsea,2016,129.6
+Kensington and Chelsea,2017,130.3
+Kensington and Chelsea,2018,131.4
+Kensington and Chelsea,2019,132.4
+Kensington and Chelsea,2020,132.6
+Kingston upon Thames,2012,44
+Kingston upon Thames,2013,44.8
+Kingston upon Thames,2014,45.6
+Kingston upon Thames,2015,46.6
+Kingston upon Thames,2016,47.3
+Kingston upon Thames,2017,47.9
+Kingston upon Thames,2018,48.2
+Kingston upon Thames,2019,48.5
+Kingston upon Thames,2020,49
+Lambeth,2012,115.8
+Lambeth,2013,117.3
+Lambeth,2014,118.8
+Lambeth,2015,121.1
+Lambeth,2016,122.4
+Lambeth,2017,123.5
+Lambeth,2018,124.9
+Lambeth,2019,126.1
+Lambeth,2020,126.9
+Lewisham,2012,80.3
+Lewisham,2013,81.6
+Lewisham,2014,83.2
+Lewisham,2015,84.8
+Lewisham,2016,86
+Lewisham,2017,87.2
+Lewisham,2018,88.3
+Lewisham,2019,89.3
+Lewisham,2020,90.3
+Merton,2012,53.9
+Merton,2013,54.2
+Merton,2014,54.3
+Merton,2015,54.6
+Merton,2016,54.7
+Merton,2017,55.3
+Merton,2018,55.7
+Merton,2019,55.9
+Merton,2020,56.5
+Newham,2012,87.2
+Newham,2013,88.3
+Newham,2014,90
+Newham,2015,92.3
+Newham,2016,94.6
+Newham,2017,96
+Newham,2018,97.6
+Newham,2019,99.3
+Newham,2020,100.4
+Redbridge,2012,50.5
+Redbridge,2013,51.1
+Redbridge,2014,52
+Redbridge,2015,52.6
+Redbridge,2016,53.1
+Redbridge,2017,53.9
+Redbridge,2018,54.2
+Redbridge,2019,54.5
+Redbridge,2020,55.3
+Richmond upon Thames,2012,32.9
+Richmond upon Thames,2013,33.3
+Richmond upon Thames,2014,33.7
+Richmond upon Thames,2015,33.9
+Richmond upon Thames,2016,34.1
+Richmond upon Thames,2017,34.5
+Richmond upon Thames,2018,34.7
+Richmond upon Thames,2019,35
+Richmond upon Thames,2020,35.1
+Southwark,2012,101.9
+Southwark,2013,103.6
+Southwark,2014,105
+Southwark,2015,107.2
+Southwark,2016,108.7
+Southwark,2017,110.1
+Southwark,2018,111.7
+Southwark,2019,113.4
+Southwark,2020,114.4
+Sutton,2012,44.2
+Sutton,2013,44.8
+Sutton,2014,45.3
+Sutton,2015,45.7
+Sutton,2016,46.2
+Sutton,2017,46.7
+Sutton,2018,47.3
+Sutton,2019,47.8
+Sutton,2020,48.2
+Tower Hamlets,2012,133.3
+Tower Hamlets,2013,138.3
+Tower Hamlets,2014,143.9
+Tower Hamlets,2015,149.6
+Tower Hamlets,2016,154.5
+Tower Hamlets,2017,157.2
+Tower Hamlets,2018,160.4
+Tower Hamlets,2019,163.6
+Tower Hamlets,2020,165.8
+Waltham Forest,2012,67.8
+Waltham Forest,2013,68.7
+Waltham Forest,2014,69.2
+Waltham Forest,2015,70
+Waltham Forest,2016,71.2
+Waltham Forest,2017,72.2
+Waltham Forest,2018,73.1
+Waltham Forest,2019,73.9
+Waltham Forest,2020,74.7
+Wandsworth,2012,90.2
+Wandsworth,2013,90.8
+Wandsworth,2014,91.3
+Wandsworth,2015,92
+Wandsworth,2016,92.4
+Wandsworth,2017,93.3
+Wandsworth,2018,94.7
+Wandsworth,2019,96
+Wandsworth,2020,97.1
+Westminster,2012,104.2
+Westminster,2013,105.6
+Westminster,2014,108.6
+Westminster,2015,112.8
+Westminster,2016,115.2
+Westminster,2017,116.4
+Westminster,2018,118.4
+Westminster,2019,120.3
+Westminster,2020,121
+Greater London,2012,52.9
+Greater London,2013,53.6
+Greater London,2014,54.4
+Greater London,2015,55.2
+Greater London,2016,56
+Greater London,2017,56.6
+Greater London,2018,57.3
+Greater London,2019,57.9
+Greater London,2020,58.5
+Inner London,2012,103.1
+Inner London,2013,104.6
+Inner London,2014,106.5
+Inner London,2015,108.9
+Inner London,2016,110.7
+Inner London,2017,112
+Inner London,2018,113.5
+Inner London,2019,115.1
+Inner London,2020,116.2
+Outer London,2012,40.1
+Outer London,2013,40.6
+Outer London,2014,41.1
+Outer London,2015,41.5
+Outer London,2016,42
+Outer London,2017,42.5
+Outer London,2018,42.9
+Outer London,2019,43.3
+Outer London,2020,43.8

@@ -1,0 +1,298 @@
+﻿Area,Year,Youth_population
+Barking and Dagenham,2012,9.5
+Barnet,2012,8.7
+Bexley,2012,9.2
+Brent,2012,10.0
+Bromley,2012,7.4
+Camden,2012,12.9
+City of London,2012,9.3
+Croydon,2012,8.7
+Ealing,2012,9.0
+Enfield,2012,9.1
+Greenwich,2012,10.6
+Hackney,2012,10.2
+Hammersmith and Fulham,2012,11.1
+Haringey,2012,9.5
+Harrow,2012,9.0
+Havering,2012,8.8
+Hillingdon,2012,10.9
+Hounslow,2012,9.3
+Islington,2012,12.0
+Kensington and Chelsea,2012,9.0
+Kingston upon Thames,2012,11.1
+Lambeth,2012,10.1
+Lewisham,2012,9.7
+Merton,2012,8.0
+Newham,2012,12.5
+Redbridge,2012,9.0
+Richmond upon Thames,2012,6.5
+Southwark,2012,11.8
+Sutton,2012,7.7
+Tower Hamlets,2012,13.9
+Waltham Forest,2012,10.0
+Wandsworth,2012,9.1
+Westminster,2012,10.4
+Barking and Dagenham,2013,9.3
+Barnet,2013,8.7
+Bexley,2013,8.9
+Brent,2013,10.1
+Bromley,2013,7.3
+Camden,2013,13.3
+City of London,2013,10.4
+Croydon,2013,8.7
+Ealing,2013,9.0
+Enfield,2013,9.0
+Greenwich,2013,10.2
+Hackney,2013,10.0
+Hammersmith and Fulham,2013,11.4
+Haringey,2013,9.6
+Harrow,2013,8.7
+Havering,2013,8.7
+Hillingdon,2013,10.7
+Hounslow,2013,9.1
+Islington,2013,12.0
+Kensington and Chelsea,2013,9.3
+Kingston upon Thames,2013,11.0
+Lambeth,2013,10.1
+Lewisham,2013,9.7
+Merton,2013,8.0
+Newham,2013,12.1
+Redbridge,2013,8.8
+Richmond upon Thames,2013,6.3
+Southwark,2013,12.1
+Sutton,2013,7.5
+Tower Hamlets,2013,13.8
+Waltham Forest,2013,9.9
+Wandsworth,2013,9.3
+Westminster,2013,9.9
+Barking and Dagenham,2014,9.3
+Barnet,2014,8.7
+Bexley,2014,8.7
+Brent,2014,10.1
+Bromley,2014,7.0
+Camden,2014,13.3
+City of London,2014,10.4
+Croydon,2014,8.6
+Ealing,2014,8.9
+Enfield,2014,8.8
+Greenwich,2014,9.9
+Hackney,2014,9.7
+Hammersmith and Fulham,2014,11.6
+Haringey,2014,9.7
+Harrow,2014,8.5
+Havering,2014,8.5
+Hillingdon,2014,10.5
+Hounslow,2014,9.1
+Islington,2014,12.1
+Kensington and Chelsea,2014,9.6
+Kingston upon Thames,2014,10.6
+Lambeth,2014,9.9
+Lewisham,2014,9.4
+Merton,2014,7.9
+Newham,2014,11.8
+Redbridge,2014,8.8
+Richmond upon Thames,2014,6.3
+Southwark,2014,12.0
+Sutton,2014,7.5
+Tower Hamlets,2014,13.9
+Waltham Forest,2014,9.8
+Wandsworth,2014,9.2
+Westminster,2014,10.1
+Barking and Dagenham,2015,9.2
+Barnet,2015,8.6
+Bexley,2015,8.4
+Brent,2015,10.1
+Bromley,2015,7.2
+Camden,2015,13.3
+City of London,2015,11.6
+Croydon,2015,8.3
+Ealing,2015,8.9
+Enfield,2015,8.6
+Greenwich,2015,9.9
+Hackney,2015,9.6
+Hammersmith and Fulham,2015,11.7
+Haringey,2015,9.8
+Harrow,2015,8.5
+Havering,2015,8.3
+Hillingdon,2015,10.2
+Hounslow,2015,9.0
+Islington,2015,12.4
+Kensington and Chelsea,2015,10.3
+Kingston upon Thames,2015,10.4
+Lambeth,2015,10.1
+Lewisham,2015,9.3
+Merton,2015,8.0
+Newham,2015,11.7
+Redbridge,2015,8.6
+Richmond upon Thames,2015,6.2
+Southwark,2015,12.0
+Sutton,2015,7.3
+Tower Hamlets,2015,14.0
+Waltham Forest,2015,9.6
+Wandsworth,2015,9.4
+Westminster,2015,11.5
+Barking and Dagenham,2016,9.0
+Barnet,2016,8.7
+Bexley,2016,8.2
+Brent,2016,10.1
+Bromley,2016,6.7
+Camden,2016,13.2
+City of London,2016,12.4
+Croydon,2016,8.0
+Ealing,2016,8.9
+Enfield,2016,8.6
+Greenwich,2016,9.6
+Hackney,2016,9.6
+Hammersmith and Fulham,2016,11.6
+Haringey,2016,10.0
+Harrow,2016,8.5
+Havering,2016,8.1
+Hillingdon,2016,10.0
+Hounslow,2016,8.9
+Islington,2016,12.6
+Kensington and Chelsea,2016,10.0
+Kingston upon Thames,2016,10.2
+Lambeth,2016,10.2
+Lewisham,2016,9.0
+Merton,2016,7.9
+Newham,2016,11.6
+Redbridge,2016,8.6
+Richmond upon Thames,2016,6.2
+Southwark,2016,11.5
+Sutton,2016,7.2
+Tower Hamlets,2016,14.0
+Waltham Forest,2016,9.2
+Wandsworth,2016,9.6
+Westminster,2016,11.8
+Barking and Dagenham,2017,8.9
+Barnet,2017,8.4
+Bexley,2017,7.9
+Brent,2017,10.2
+Bromley,2017,6.5
+Camden,2017,13.1
+City of London,2017,12.1
+Croydon,2017,7.8
+Ealing,2017,8.8
+Enfield,2017,8.2
+Greenwich,2017,9.4
+Hackney,2017,9.5
+Hammersmith and Fulham,2017,11.5
+Haringey,2017,9.6
+Harrow,2017,8.4
+Havering,2017,7.9
+Hillingdon,2017,9.6
+Hounslow,2017,8.6
+Islington,2017,12.2
+Kensington and Chelsea,2017,9.7
+Kingston upon Thames,2017,9.9
+Lambeth,2017,10.2
+Lewisham,2017,8.9
+Merton,2017,7.6
+Newham,2017,11.5
+Redbridge,2017,8.4
+Richmond upon Thames,2017,6.1
+Southwark,2017,11.3
+Sutton,2017,6.9
+Tower Hamlets,2017,13.9
+Waltham Forest,2017,8.8
+Wandsworth,2017,9.7
+Westminster,2017,11.5
+Barking and Dagenham,2018,8.8
+Barnet,2018,8.3
+Bexley,2018,7.8
+Brent,2018,10.2
+Bromley,2018,6.3
+Camden,2018,13.2
+City of London,2018,12.7
+Croydon,2018,7.7
+Ealing,2018,8.7
+Enfield,2018,8.1
+Greenwich,2018,9.1
+Hackney,2018,9.3
+Hammersmith and Fulham,2018,11.6
+Haringey,2018,9.5
+Harrow,2018,8.3
+Havering,2018,7.7
+Hillingdon,2018,9.5
+Hounslow,2018,8.4
+Islington,2018,11.9
+Kensington and Chelsea,2018,9.8
+Kingston upon Thames,2018,9.5
+Lambeth,2018,10.2
+Lewisham,2018,8.7
+Merton,2018,7.4
+Newham,2018,11.4
+Redbridge,2018,8.4
+Richmond upon Thames,2018,5.9
+Southwark,2018,11.2
+Sutton,2018,6.8
+Tower Hamlets,2018,13.7
+Waltham Forest,2018,8.6
+Wandsworth,2018,9.5
+Westminster,2018,11.5
+Barking and Dagenham,2019,8.7
+Barnet,2019,8.1
+Bexley,2019,7.6
+Brent,2019,10.2
+Bromley,2019,6.3
+Camden,2019,13.1
+City of London,2019,13.9
+Croydon,2019,7.7
+Ealing,2019,8.5
+Enfield,2019,8.1
+Greenwich,2019,8.9
+Hackney,2019,9.3
+Hammersmith and Fulham,2019,11.6
+Haringey,2019,9.1
+Harrow,2019,8.0
+Havering,2019,7.6
+Hillingdon,2019,9.2
+Hounslow,2019,8.4
+Islington,2019,11.6
+Kensington and Chelsea,2019,9.8
+Kingston upon Thames,2019,9.3
+Lambeth,2019,10.3
+Lewisham,2019,8.6
+Merton,2019,7.3
+Newham,2019,11.2
+Redbridge,2019,8.5
+Richmond upon Thames,2019,5.9
+Southwark,2019,10.9
+Sutton,2019,6.7
+Tower Hamlets,2019,13.4
+Waltham Forest,2019,8.4
+Wandsworth,2019,9.4
+Westminster,2019,11.5
+Barking and Dagenham,2020,8.5
+Barnet,2020,7.9
+Bexley,2020,7.5
+Brent,2020,9.7
+Bromley,2020,6.2
+Camden,2020,12.8
+City of London,2020,11.6
+Croydon,2020,7.5
+Ealing,2020,8.4
+Enfield,2020,8.0
+Greenwich,2020,8.5
+Hackney,2020,9.0
+Hammersmith and Fulham,2020,11.1
+Haringey,2020,8.6
+Harrow,2020,7.8
+Havering,2020,7.4
+Hillingdon,2020,9.0
+Hounslow,2020,8.1
+Islington,2020,10.9
+Kensington and Chelsea,2020,9.8
+Kingston upon Thames,2020,8.9
+Lambeth,2020,9.8
+Lewisham,2020,8.3
+Merton,2020,7.0
+Newham,2020,10.7
+Redbridge,2020,8.4
+Richmond upon Thames,2020,5.9
+Southwark,2020,10.4
+Sutton,2020,6.5
+Tower Hamlets,2020,12.7
+Waltham Forest,2020,7.8
+Wandsworth,2020,8.8
+Westminster,2020,11.1
