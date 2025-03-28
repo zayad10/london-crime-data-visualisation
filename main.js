@@ -20,8 +20,7 @@ Promise.all([
     ethnic_groups = values[2];
     merged_dataset = values[3];
     crimePer1000Data = calculateCrimePer1000(crimeData, merged_dataset)
-    crimeRankings = computeCrimeRankings(crimeData);
-    console.log(crimeData.slice(0, 10), merged_dataset.slice(0, 10))
+    crimeRankings = computeCrimeRankings(crimeData); 
 
     // Year navigation
     document.getElementById("prev-year").addEventListener("click", () => {
@@ -108,10 +107,10 @@ function drawParallelCoordinates(merged_dataset, name, year) {
     pcMetrics.forEach(metric => {
         const values = merged_dataset.map(d => +d[metric.key]).filter(v => !isNaN(v));
         const minVal = metric.percentage ? 0 : d3.min(values);
-        const maxVal = d3.max(values);
+        const maxVal = metric.maxValue;
         console.log(metric.key, d3.max(values))
         pcScales[metric.key] = d3.scaleLinear()
-            .domain([minVal, maxVal])
+            .domain([minVal, maxVal]) .nice()
             .range([height - padding.bottom, padding.top]);
     });
  
@@ -137,7 +136,8 @@ function drawParallelCoordinates(merged_dataset, name, year) {
         .attr("class", "axis")
         .attr("transform", d => `translate(${pcDimensions.find(p => p.key === d.key).x},0)`)
         .each(function (metric) {
-            d3.select(this).call(d3.axisLeft(pcScales[metric.key]).ticks(5));
+            d3.select(this).call(d3.axisLeft(pcScales[metric.key]).ticks(9)
+          );
         })
         .append("text")
         .attr("y", padding.top - 10)
@@ -276,8 +276,7 @@ function updateTreemap(ethnic_groups, name, year) {
 
     dataForTreemap.forEach(d => {
         d.percentage = total > 0 ? ((d.value / total) * 100).toFixed(1) + "%" : "0%";
-    });
-    console.log(dataForTreemap)
+    }); 
     const root = d3.hierarchy({ name: "root", children: dataForTreemap })
         .sum(d => d.value);
 
@@ -398,7 +397,7 @@ function updateMap(map, data, year) {
             if (val <= thresholds[3]) return colors[3]; // 24+
         }
         else
-            return "grey"
+            return "white"
 
     };
 
@@ -558,8 +557,7 @@ function updateStats(selectedBorough, selectedYear) {
     d3.select("#stat-crime-ranking").html(`${crimeText} ${crimeChangeText}`);
 }
 
-function computeCrimeRankings(crimeDataset) {
-    console.log(crimeDataset.slice(0,10) , crimePer1000Data.slice(0,10))
+function computeCrimeRankings(crimeDataset) { 
     let years = Object.keys(crimeDataset[0]).filter(y => !isNaN(y));
     let boroughs = [...new Set(crimeDataset.map(d => d.Borough))];
 
@@ -572,8 +570,7 @@ function computeCrimeRankings(crimeDataset) {
                 d => +d.CrimeRatePer1000|| 0
             );
             return { borough, totalCrimes };
-        });
-        console.log(boroughTotals, year)
+        }); 
         boroughTotals.sort((a, b) => b.totalCrimes - a.totalCrimes);
 
         boroughTotals.forEach((d, i) => {
