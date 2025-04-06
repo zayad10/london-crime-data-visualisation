@@ -18,7 +18,7 @@
  
             <div class="stats-container">
                 <div class="stat" id="selected-borough">
-                    <div class="stat-label">Selected Borough:</div>
+                    <div class="stat-label">Selected Area:</div>
                     <div class="selected-borough-value">--</div>
                 </div>
                 <div class="stat" id="crime-ranking">
@@ -53,7 +53,9 @@
                     <strong>Handling Missing &amp; Erroneous Values:</strong>
                     Rows missing critical information (e.g., a missing “Area” name) or containing placeholder
                     entries (e.g., “-”) were removed. In some datasets, unrealistic data (e.g., negative numbers
-                    or invalid dates) was also filtered out to maintain accuracy.
+                    or invalid dates) was also filtered out to maintain accuracy. Many datasets had data for
+                    City of London missing. Consequently, the area has been made white (without colour encoding)
+                    on the map. Furthermore, some views of this area are unrendered due to missing data.
                 </li>
                 <li>
                     <strong>Data Wrangling &amp; Transformation:</strong>
@@ -79,6 +81,11 @@
                     (e.g., population density, unemployment rates, house prices) were merged using these
                     common fields. A single, comprehensive dataset was produced, containing indicators
                     such as “Workless Household Percentage” or “Avg_house_price” side by side for analysis.
+                </li>
+                <li>
+                    <strong>Datasets Used:</strong>
+                    <ul>
+                    </ul>
                 </li>
             </ul>
         </div>

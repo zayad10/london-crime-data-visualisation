@@ -546,9 +546,9 @@ function updateStats(selectedBorough, selectedYear) {
         if (!previousRank) previousRank = crimeText
         var changeInRank = crimeRankings[selectedBorough][selectedYear - 1] - crimeRankings[selectedBorough][selectedYear];
         if (changeInRank > 0) {
-            crimeChangeText = `<span style="color: #fec44f; font-weight: bold;">&#x21d1; </span><span style="color: #fec44f;">${previousRank}</span>  YoY`;
+            crimeChangeText = `<span style="color: red; font-weight: bold;">&#x21d1; </span><span style="color: red;">${previousRank}</span>  YoY`;
         } else if (changeInRank < 0) {
-            crimeChangeText = `<span style="color: red; font-weight: bold;">&#x21d3; </span><span style="color: red;">${previousRank}</span>  YoY`;
+            crimeChangeText = `<span style="color: #fec44f; font-weight: bold;">&#x21d3; </span><span style="color: #fec44f;">${previousRank}</span>  YoY`;
         } else {
             crimeChangeText = `<span style="color: gray;">&#x21d4 </span>  YoY`;
         }
